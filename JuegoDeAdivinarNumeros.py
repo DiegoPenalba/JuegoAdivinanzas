@@ -1,6 +1,5 @@
 # Juego realizado para la primer practica del curso
 # Introducción a la Programación con Python
-# PRUEBA DE FUNCIONAMIENTO DE REPO
 
 
 import random
